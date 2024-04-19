@@ -18,7 +18,7 @@ int main(int argc, char *argv[]) {
 
     // Check if the file opened successfully
     if (file == NULL) {
-        printf("Error opening the file.\n");
+        printf("Error opening the file..!!!!\n");
         return 1;
     }
 
